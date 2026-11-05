@@ -133,8 +133,8 @@ jobs:
 
           class MainActivity : Activity() {
 
-              private val NATIVE_WIDTH = 2000
-              private val NATIVE_HEIGHT = 2800
+              private val NATIVE_WIDTH = 1504
+              private val NATIVE_HEIGHT = 2400
               private val NATIVE_DPI = 400
               private val SHIZUKU_CODE = 1001
 
